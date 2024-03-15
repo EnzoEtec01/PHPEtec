@@ -1,5 +1,12 @@
 <?php
 
+/*
+    Nome: Enzo de campos machado
+    Aula: DDM
+    Prof: Rafael Brito
+    Dia: 15/03/2024
+*/
+
     class Cliente{
         public $nome;
         public $cpf;
